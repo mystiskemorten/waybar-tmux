@@ -6,6 +6,8 @@ screen.
 
 The tmux status line is refreshed upon events by using hooks in tmux.
 
+![Default look of module in Waybar](img.png)
+
 ## Setup
 
 - Download and move tmux.py file to preferred location
